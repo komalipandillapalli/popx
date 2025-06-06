@@ -4,7 +4,7 @@ import Header from './Components/Header'
 import './App.css'
 import SignIn from './Components/SignIn'
 import Login from './Components/Login'
-import Account from './Components/Account'
+import Account from './Components/Account'  
 
 
 const MyContext = createContext()
